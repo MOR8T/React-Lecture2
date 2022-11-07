@@ -1,0 +1,14 @@
+.Card{
+    width: 100%;
+    height: auto;
+    padding: 50px 0px;
+}
+.Card h2{
+    font-weight: 400;
+    font-size: 3em;
+    margin: 0px 0px 20px 0px;
+}
+.Card img{
+    width: 450px;
+    /* height: 400px; */
+}
