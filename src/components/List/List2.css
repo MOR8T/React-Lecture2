@@ -1,0 +1,12 @@
+#list2-1{
+    width: 400px;
+    height: 300px;
+    display: grid;
+    align-content: space-between;
+    border-radius: 10px;
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+#list2-1 img{
+    width: 100%;
+    border-radius: 0px;
+}

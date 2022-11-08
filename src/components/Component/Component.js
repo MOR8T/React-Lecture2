@@ -62,10 +62,10 @@ function Component(){
                 </div>
             </div>
             <div className="Component-2">
-            <Card2 img={img1} text="function component"/>
-            <Card2 img={img2} text="class component"/>
-            <Card2 img={img3}/>
-            <Card2 img={img4}/>
+            <Card2 img={img1} text="Function component"/>
+            <Card2 img={img2} text="Class component"/>
+            <Card2 img={img3} text="Syntax"/>
+            <Card2 img={img4} text="Props"/>
             </div>
         </div>
     )

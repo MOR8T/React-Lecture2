@@ -9,6 +9,6 @@
     margin: 0px 0px 20px 0px;
 }
 .Card img{
-    width: 450px;
-    /* height: 400px; */
+    width: 600px;
+    border-radius: 10px;
 }
